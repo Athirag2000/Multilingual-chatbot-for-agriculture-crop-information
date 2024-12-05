@@ -22,5 +22,5 @@ An AI-powered chatbot providing comprehensive agricultural insights for agricult
 - Domain-specific agricultural knowledge
 
 
-
+THE GOOGLE COLAB LINK OF THE FINE-TUNING : https://colab.research.google.com/drive/1J3jBE_h08Ulf5JFJt_7vEyW-bA-mi1qp?usp=sharing
 
